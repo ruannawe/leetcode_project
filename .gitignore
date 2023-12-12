@@ -14,7 +14,6 @@ obj/
 # Premake generated files
 **/Makefile
 **/*.make
-**/premake*.lua
 
 # vcpkg folder (if vcpkg is used and installed inside the project directory)
 vcpkg/
@@ -49,3 +48,6 @@ Thumbs.db
 *.bak
 *.tmp
 *.temp
+
+# Environment variable
+.env
