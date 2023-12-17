@@ -1,6 +1,0 @@
-/home/ruannawe/projects/clang/cmake-project/build/CMakeFiles/LeetcodeApp.dir
-/home/ruannawe/projects/clang/cmake-project/build/CMakeFiles/run_clang_format.dir
-/home/ruannawe/projects/clang/cmake-project/build/CMakeFiles/run_clang_tidy.dir
-/home/ruannawe/projects/clang/cmake-project/build/CMakeFiles/run_clang_sanitizers.dir
-/home/ruannawe/projects/clang/cmake-project/build/CMakeFiles/edit_cache.dir
-/home/ruannawe/projects/clang/cmake-project/build/CMakeFiles/rebuild_cache.dir
