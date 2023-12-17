@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/ruannawe/projects/clang/cmake-project/build",
+  "command": "/usr/bin/clang  -I/home/ruannawe/vcpkg/installed/x64-linux/include -std=gnu11 -o CMakeFiles/LeetcodeApp.dir/main.c.o -c /home/ruannawe/projects/clang/cmake-project/main.c",
+  "file": "/home/ruannawe/projects/clang/cmake-project/main.c"
+}
+]
