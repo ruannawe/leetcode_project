@@ -1,0 +1,54 @@
+# Compiled object files, libraries, executables, etc.
+*.o
+*.a
+*.so
+*.dylib
+*.lib
+*.dll
+*.exe
+*.out
+*.app
+bin/
+obj/
+build/
+
+# Premake generated files
+**/Makefile
+**/*.make
+
+# vcpkg folder (if vcpkg is used and installed inside the project directory)
+vcpkg/
+
+# Ignore vcpkg installed binaries and libraries if not in a separate folder
+installed/
+
+# IDE-specific files (e.g., Visual Studio, VSCode, CLion)
+.vs/
+.vscode/
+*.code-workspace
+*.suo
+*.user
+*.userprefs
+*.sdf
+*.opendb
+*.VC.db
+*.vcxproj*
+*.db
+
+# System Files
+.DS_Store
+Thumbs.db
+
+# Log files and databases
+*.log
+*.sql
+*.sqlite
+
+# Backup & other files to ignore
+*~
+*.bak
+*.tmp
+*.temp
+
+# Environment variable
+.env
