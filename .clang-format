@@ -11,4 +11,4 @@ AllowShortLoopsOnASingleLine: false
 PointerAlignment: Left
 
 KeepEmptyLinesAtTheStartOfBlocks: false
-MaxEmptyLinesToKeep: 1
+MaxEmptyLinesToKeep: 2
